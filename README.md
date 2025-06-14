@@ -1,7 +1,7 @@
 # Mechanical-Engineering-Portfolio
 My Personal Portfolio showcasing Mechanical Engineering projects.
 
-Umair Tariq
+Umair Tariq, 
 Welcome to my professional portfolio! I’m a Mechanical Engineering student passionate about industrial design, thermal systems, and simulation-driven solutions.
 
 ---
